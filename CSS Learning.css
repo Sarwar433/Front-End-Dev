@@ -1,0 +1,35 @@
+#commit h2 {
+    color: blue;
+    background-color: rgb(205, 92, 92);
+
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: red underline;
+    letter-spacing: 15px;
+    font-size: extra xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#submit {
+    color: brown;
+    background-color: blue;
+}
+
+button {
+    color: red;
+    background-color: pink;
+
+}
+
+p {
+    color: #000;
+    (black color in hexa decimal)
+}
+
+body {
+    background-color: #8ecae6;
+}
