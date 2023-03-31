@@ -15,11 +15,11 @@ h2 {
 }
 
 span {
-    color: red;
+    color: purple;
 }
 
-. ingredient {
-    background-color: black;
+. ing {
+    background-color: yellow;
 }
 
 #submit {
@@ -40,4 +40,30 @@ p {
 
 body {
     background-color: #8ecae6;
+}
+
+/* Make all LI's blue */
+
+/* Make everything with the class of 'done' grey*/
+
+/* Make the element with the id of 'clear' have a red BG and white text */
+li {
+    color: blue;
+}
+
+.done {
+    color: grey;
+}
+/* for class use .id-name*/
+
+#clear {
+    color: white;
+    background-color: red;
+/* for id use #id-name */
+
+}
+
+.clear {
+    color: rgb(0, 0, 0);
+    background-color: rgb(192, 192, 192);
 }
